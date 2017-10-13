@@ -15,11 +15,8 @@
 
 // BEGIN_INCLUDE
 #include "code\mainDefines.dm"
-#include "code\map_spawns.dm"
-#include "code\mob\living\death.dm"
-#include "code\mob\living\human\human.dm"
-#include "code\mob\living\human\subtypes\terran.dm"
-#include "code\objects\food\burgers.dm"
+#include "code\species\human.dm"
+#include "code\species\terran_spider.dm"
 #include "map\map.dmm"
 // END_INCLUDE
 
