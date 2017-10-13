@@ -1,0 +1,11 @@
+// BEGIN_INTERNALS
+/*
+LAST_COMPILE_TIME: 1507822387
+DIR: code code\mob code\mob\living code\mob\living\human code\mob\living\human\subtypes code\objects code\objects\food icons 
+AUTO_FILE_DIR: ON
+MAP_ICON_TYPE: 0
+LAST_COMPILE_VERSION: 511.1385
+WINDOW: code\mob\living\human\human.dm;code\map_spawns.dm;code\objects\food\burgers.dm
+FILE: code\map_spawns.dm
+*/
+// END_INTERNALS
