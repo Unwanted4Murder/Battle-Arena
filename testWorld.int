@@ -1,11 +1,11 @@
 // BEGIN_INTERNALS
 /*
-LAST_COMPILE_TIME: 1508183255
+LAST_COMPILE_TIME: 1508183686
 DIR: code code\species icons map 
 AUTO_FILE_DIR: ON
 MAP_ICON_TYPE: 0
 LAST_COMPILE_VERSION: 511.1385
-WINDOW: code\mainDefines.dm;code\species\terran_spider.dm;code\globals.dm
-FILE: code\globals.dm
+WINDOW: code\mainDefines.dm;code\species\human.dm
+FILE: code\species\human.dm
 */
 // END_INTERNALS
