@@ -14,6 +14,7 @@
 // END_PREFERENCES
 
 // BEGIN_INCLUDE
+#include "code\globals.dm"
 #include "code\mainDefines.dm"
 #include "code\species\human.dm"
 #include "code\species\terran_spider.dm"
